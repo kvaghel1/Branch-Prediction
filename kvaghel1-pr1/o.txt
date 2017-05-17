@@ -1,0 +1,6 @@
+<_io.TextIOWrapper name='<stdin>' mode='r' encoding='cp1252'>
+Name: Kunal Vaghela,Sean Annunciation
+
+Email: kvaghel1@binghamton.edu, sannunc1@binghamton.edu
+
+hello

@@ -1,0 +1,11 @@
+A. Implementation using only Local predictor:
+	Correct predictions = 8559
+	Total inputs = 10000
+
+B. Implementation using only Global predictor:
+	Correct predictions = 9266
+	Total inputs = 10000
+
+C. Implementation using Tournament predictor:
+	Correct predictions = 9978
+	Total inputs = 10000
